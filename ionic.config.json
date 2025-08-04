@@ -1,0 +1,8 @@
+{
+  "name": "PharmaScanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom",
+  "id": "pharmascan-app"
+}
